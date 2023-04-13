@@ -1,8 +1,9 @@
 ### Hi 👩‍💻
 I'm currently looking for a Data Science position (or related).<br>
-👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology.<br>
+👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). <br>
 👩‍💼 I previously worked as a frontend developer.<br>
-🔭🌱 I’m currently working on ... my github Machine Learning projects.  😍
+🔭🌱 I’m currently working on ... my github Machine Learning projects.😍<br>
+from 🇵🇱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapself&show_icons=true&bg_color=00000000)
 
