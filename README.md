@@ -1,7 +1,7 @@
 ### Hi 👩‍💻
 👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). <br>
-👩‍💼 I previously worked as a frontend developer.<br>
-🔭🌱 I’m working on ... my github Machine Learning projects.😍<br>
+👩‍💼 I previously worked as a Frontend Developer.<br>
+🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br>
 from 🇵🇱
 
 <!--
