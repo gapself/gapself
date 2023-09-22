@@ -4,7 +4,7 @@
 🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br>
 from 🇵🇱
 
-<a href='https://github.com/gapself/machine-learning-projects' align = center> 
+<a href='https://github.com/gapself/machine-learning-projects'> 
 
 ## Few projects from repository: Machine Learning Projects
 
