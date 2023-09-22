@@ -4,11 +4,11 @@
 🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br>
 from 🇵🇱
 
-<div align = center> 
+<a href='https://github.com/gapself/machine-learning-projects' align = center> 
 
-# Machine Learning Projects
+# Repository: Machine Learning Projects
 
-</div>
+</a>
 
 
 <!---------------------------------------------------------------------------->
