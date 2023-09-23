@@ -1,19 +1,22 @@
 <!-- br -->
 <img align='right' src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="200">
 
-## Hi 👩‍💻
+## Hi, I'm Gabi 👩‍💻
 👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" />&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> <br>
 👩‍💼 I previously worked as a Frontend Developer.<br>
-🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br> from 🇵🇱
+🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br> 🇵🇱 from Poland
 
-
-<br><br>
 
 <!-- br -->
-<img align='right' src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="200">
 
-## Few projects from repository: Machine Learning Projects
+<h2 style="border-bottom: none !important; padding-bottom: none !important; margin-bottom: 0 !important">
+  Few projects from repository: Machine Learning Projects
+</h2> 
+<img align='center' src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif" width="75%" height="1">
+
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+
+<img align='right' src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="200">
 
 
 
