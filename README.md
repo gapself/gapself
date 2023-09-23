@@ -1,14 +1,20 @@
-## Hi 👩‍💻
-👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). <br>
-👩‍💼 I previously worked as a Frontend Developer.<br>
-🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br>
-from 🇵🇱
+<!-- br -->
+<img align='right' src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="200">
 
-<a href='https://github.com/gapself/machine-learning-projects'> 
+## Hi 👩‍💻
+👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" />&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> <br>
+👩‍💼 I previously worked as a Frontend Developer.<br>
+🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br> from 🇵🇱
+
+
+<br><br>
+
+<!-- br -->
+<img align='right' src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="200">
 
 ## Few projects from repository: Machine Learning Projects
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
 
-</a>
 
 
 <!---------------------------------------------------------------------------->
@@ -58,7 +64,6 @@ from 🇵🇱
 [![Button Click cifar]][Link cifar] 
   
 </div>
-& more
 
 <!---------------------------------------------------------------------------->
 [Button Click MS]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30
@@ -86,7 +91,6 @@ from 🇵🇱
 <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/E0AAFF?style=circle&size=10'/> Machine Learning Algorithms <br>
 &emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/C77DFF?style=circle&size=10'/> Supervised Learning I : Regressors, Classifiers and Trees<br> -->
 
-<br>
 
 <!--
 **gapself/gapself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -101,7 +105,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ![](https://komarev.com/ghpvc/?username=gapself&color=brightgreen)
+
+-->
