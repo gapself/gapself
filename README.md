@@ -9,9 +9,6 @@
 
 <!-- br -->
 
-<h2 style="border-bottom: none !important; padding-bottom: none !important; margin-bottom: 0 !important">
-  Few projects from repository: Machine Learning Projects
-</h2> 
 <img align='center' src="https://user-images.githubusercontent.com/114053180/223065824-02021921-0562-4936-a1e9-6db07116d7d2.gif" width="75%" height="1">
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
