@@ -16,30 +16,43 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="200">
 
 
-
 <!---------------------------------------------------------------------------->
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition CNN, OpenCV
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition: CNN, OpenCV
 
 [![Button Click MS]][Link MS] 
   
 </div>
-<!---------------------------------------------------------------------------->
 
-<div align = left> 
-  
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/f957ff?style=square&size=15'/> Breast cancer detection KNN, SGD, SVC, MLP, Gaussian
 
-[![Button Click breastcancer]][Link breastcancer] 
-
-</div>
 <!---------------------------------------------------------------------------->
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/7247ff?style=square&size=15'/> Twitter sentiment analysis Word2Vec, KMeans
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/4060ff?style=square&size=15'/> Financial Fraud Detection: Logistic Regression, Random Trees
+
+[![Button Click fraud]][Link fraud] 
+  
+</div>
+
+<!---------------------------------------------------------------------------->
+
+<div align = left> 
+  
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/f957ff?style=square&size=15'/> Breast cancer detection: KNN, SGD, SVC, MLP, Gaussian
+
+[![Button Click breastcancer]][Link breastcancer] 
+
+</div>
+
+<!---------------------------------------------------------------------------->
+
+
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/7247ff?style=square&size=15'/> Twitter sentiment analysis: Word2Vec, KMeans
 
 [![Button Click twitter]][Link twitter]
   
@@ -49,7 +62,7 @@
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff8a30?style=square&size=15'/> Handwritten digit recognition CNN
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff8a30?style=square&size=15'/> Handwritten digit recognition: CNN
 
 [![Button Click handwritten]][Link handwritten] 
   
@@ -59,11 +72,13 @@
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff2954?style=square&size=15'/> CIFAR-10 object recognition CNN, SVM
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff2954?style=square&size=15'/> CIFAR-10 object recognition: CNN, SVM
 
 [![Button Click cifar]][Link cifar] 
   
 </div>
+<!---------------------------------------------------------------------------->
+
 
 <!---------------------------------------------------------------------------->
 [Button Click MS]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30
@@ -80,6 +95,9 @@
 
 [Button Click cifar]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff2954?style=for-the-badge&height=30
 [Link cifar]: https://github.com/gapself/machine-learning-projects/tree/main/object-recognition-cifar10
+
+[Button Click fraud]: https://img.shields.io/badge/Click_Here_To_See_This_Project-4060ff?style=for-the-badge&height=30
+[Link fraud]: https://github.com/gapself/machine-learning-projects/tree/main/financial-fraud-detection 
 
 <br>
 <!---------------------------------------------------------------------------->
