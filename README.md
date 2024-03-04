@@ -4,7 +4,7 @@
 ## Hi, I'm Gabi 👩‍💻
 👩‍🎓 I recently graduated from the Polish-Japanese Academy of Information Technology (MS, Data Science - Computer Science). &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" />&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" /> <br>
 👩‍💼 I previously worked as a Frontend Developer.<br>
-🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br> 🇵🇱 from Poland
+🔭🌱 I’m working on ... my Github Machine Learning projects.😍<br> 🇵🇱 Poland
 
 
 <!-- br -->
